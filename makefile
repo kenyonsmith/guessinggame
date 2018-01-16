@@ -1,6 +1,7 @@
 README.md:
 	touch README.md
-	echo "##Guessing Game" >> README.md
+	echo "#Guessing Game" >> README.md
+	echo "" >> README.md
 	echo "###Kenyon Smith" >> README.md
 	echo "" >> README.md
 	echo "Program was made on the following date: " >> README.md
